@@ -1,0 +1,5 @@
+npm -v
+node -v
+init npm -y
+npm install express 
+npm start 
